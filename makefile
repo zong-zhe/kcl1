@@ -5,8 +5,8 @@ clean:
 	rm -rf external
 
 tag:
-	git tag v0.0.2
-	git push origin v0.0.2
+	git tag v0.0.3
+	git push origin v0.0.3
 
 push:
 	git add .
