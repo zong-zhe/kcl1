@@ -1,1 +1,1 @@
-{"package_name":"kcl1","kclvm_min_version":"v0.4.3"}
+{"package_name":"kcl1","kclvm_min_version":"v0.4.3","direct":{"kcl2":{"type":"git","name":"github.com/zong-zhe/kcl2","version":"v0.0.1","integrity":"sha512-FOwSnGHIsCwsVq5OLKhZKOQ/onjnTQKEtE52PZCz+1CrANnyvTFONooVpVChgF8c/yqHt2rMPS3rDOxHaWBSEg=="},"kcl3":{"type":"git","name":"github.com/zong-zhe/kcl3","version":"v0.0.1","integrity":"sha512-fb4hNJIaegEK6gBFwqX7Q/kcqcaJWlGpqLyIBFLvqKPCe+qeFgGi++37VmaPaUErp8YQLRTsleZKLtkT3jm3mQ=="}}}
