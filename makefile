@@ -3,3 +3,8 @@ add:
 	kpm add -git github.com/zong-zhe/kcl3
 clean:
 	rm -rf external
+
+tag:
+	git tag v0.0.2
+	git push origin v0.0.2
+	
