@@ -1,3 +1,6 @@
+compile:
+	kcl kcl1.k --target native
+
 add:
 	kpm add -git github.com/zong-zhe/kcl2
 	kpm add -git github.com/zong-zhe/kcl3
