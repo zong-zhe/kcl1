@@ -1,0 +1,20 @@
+[dependencies]
+  [dependencies.kcl2]
+    name = "kcl2"
+    full_name = "kcl2_v0.0.3"
+    version = "v0.0.3"
+    sum = "qTBNxXJREheyjQFl4Qq00t7bRDPC9gqZ6mZSbGBBirw="
+    url = "https://github.com/zong-zhe/kcl2.git"
+    tag = "v0.0.3"
+  [dependencies.kcl3]
+    name = "kcl3"
+    full_name = "kcl3_v0.0.6"
+    sum = "D1Pv4myuBUwunGYnUuptqr3AcCgQJ37r50FaQyW3RrM="
+    url = "https://github.com/zong-zhe/kcl3.git"
+    tag = "v0.0.6"
+  [dependencies.kcl4]
+    name = "kcl4"
+    full_name = "kcl4_v0.0.1"
+    sum = "tZYh+JzvgGqmcC8xIPXqN/z2eCWbgG57xxmxwcIIPzA="
+    url = "https://github.com/zong-zhe/kcl4.git"
+    tag = "v0.0.1"
