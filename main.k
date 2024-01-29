@@ -3,7 +3,7 @@ import k8s.api.apps.v1 as k8core
 
 k8core.Deployment {
     metadata = {
-        name = "nginx-deployment"
+        name = "nginx-deployment-1"
         namespace = "default"
         labels = {app = "nginx"}
     }
@@ -19,8 +19,8 @@ k8core.Deployment {
                 containers = [
                     {
                         name = "nginx"
-                        image = "nginx:1.7.9"
-                        ports = [{containerPort = 80}]
+                        image = "nginx:1.7.8"
+                        ports = [{containerPort = 81}]
                     }
                 ]
             }
