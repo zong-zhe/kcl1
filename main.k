@@ -3,7 +3,7 @@ import k8s.api.apps.v1 as k8core
 
 k8core.Deployment {
     metadata = {
-        name = "nginx-deployment-2"
+        name = "nginx-deployment-1"
         namespace = "default"
         labels = {app = "nginx"}
     }
